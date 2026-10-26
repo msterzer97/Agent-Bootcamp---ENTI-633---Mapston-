@@ -1,0 +1,6 @@
+{
+  "name": "LandDev ECC Variance Tracker & Leadership Reconciler",
+  "description": "Monthly LandDev budget reconciliation and ECC variance tracker updater with spreadsheet audit validation, formula preservation, and Senior Leadership material variance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
